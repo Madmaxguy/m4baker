@@ -1,0 +1,9 @@
+#pyqt>=4.6    # install pyqt4 from tarball
+#faac>=1.26   # use `apt-get install faac libdev-faac`
+sox
+pysox		  # b4 that install with `apt-get install -y libasound2-plugins libasound2-python libsox-fmt-all libsox-dev sox`
+# mp4v2>=1.9  # installed with `apt-get install -y mp4v2-utils mp4v2-dbg`
+
+# * PyQt 4.6 with Qt 4.5 or newer
+#   http://www.riverbankcomputing.co.uk/software/pyqt/intro
+#   http://www.trolltech.com/products/qt/
